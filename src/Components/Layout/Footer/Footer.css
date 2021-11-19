@@ -1,0 +1,45 @@
+.leftTxt {
+    margin: 0;
+    font-size: 30px;
+    line-height: 45px;
+    color: #fff;
+    font-family: "Lato", Arial, Tahoma, sans-serif;
+    font-weight: 200;
+    text-align: left;
+}
+
+.footerBottomSec {
+    color: #878787;
+    background: #eeeeee;
+    font-family: "Roboto", Arial, Tahoma, sans-serif;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.ulList{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.ulList li {
+    margin-bottom: 10px;
+    text-align: left;
+}
+.ulList li a{
+    font-size: 14px;
+    color: #676767;
+    font-weight: 400;
+    font-family: "Lato", Arial, Tahoma, sans-serif;
+    text-decoration: none;
+}
+.ulList li a:hover{
+    color: #cd2653;  
+}
+.text-left{
+    text-align: left;
+}
+.newsLetter{
+    text-align: left;
+}
