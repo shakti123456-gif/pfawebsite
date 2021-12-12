@@ -1,0 +1,20 @@
+body, html {
+	height: 100%;
+  }
+  
+  
+  
+  /* Position text in the middle of the page/image */
+  .bg-text {
+
+	background-color: rgba(0, 0, 0, 0.815); /* Black w/opacity/see-through */
+	text-align: center;
+
+	color: white;
+	font-size: 20px;
+
+	/* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+  }
+
+
+

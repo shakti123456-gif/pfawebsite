@@ -2,6 +2,13 @@ import React, {useEffect} from "react";
 import Layout from "../../Components/Layout/Layout";
 import Gallery from "react-grid-gallery";
 import { scrollToTop } from "../../Utils/Common";
+import s1 from './s1.jpeg'
+import s2 from './s2.jpeg'
+import s3 from './s3.jpeg'
+import s4 from './s4.jpeg'
+import s5 from './s5.jpeg'
+import s6 from './s6.jpeg'
+import s7 from './s7.jpeg'
 
 const Gallary = () => {
   useEffect(() => {
@@ -9,9 +16,9 @@ const Gallary = () => {
   }, []);
   const IMAGES = [
     {
-      src: "https://c2.staticflickr.com/9/8817/28973449265_07e3aa5d2e_b.jpg",
+      src: "s1",
       thumbnail:
-        "https://c2.staticflickr.com/9/8817/28973449265_07e3aa5d2e_n.jpg",
+        "s1.jpeg",
       thumbnailWidth: 320,
       thumbnailHeight: 212,
       isSelected: false,
