@@ -1,0 +1,36 @@
+.s1{
+    font-weight: bold;
+}
+
+.headerSec {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    opacity:0.7;
+    color:black;
+    height: 12vh;
+    background: white;
+    width: 100%;
+    position: fixed;
+    z-index: 1000;
+}
+
+.logo {
+    width: 80px;
+    height: 12vh;
+}
+.txt {
+    font-size: 16px;
+    color: #282055;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+.txt:hover {
+    color: #e4b81e;
+}
+
+.padd{
+    padding-left: 30px !important;
+}
+.padd2{
+    padding-left: 52px !important;
+}
