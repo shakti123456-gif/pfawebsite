@@ -16,7 +16,7 @@ const Gallary = () => {
   }, []);
   const IMAGES = [
     {
-      src: "s1",
+      src: '{{s1}}',
       thumbnail:
         "s1.jpeg",
       thumbnailWidth: 320,
